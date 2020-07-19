@@ -1,0 +1,53 @@
+{
+  "EServiceNameEn": "Issuance of Building permit  (NEW)",
+  "EServiceNameAr": "إصدار رخصه بناء جديدة",
+  "ModuleNameEn": null,
+  "ModuleNameAr": null,
+  "Tabs": [
+    {
+      "TabNameEn": "Project Info",
+      "TabNameAr": null,
+      "Displayorder": null,
+      "Fields": [
+        {
+          "FieldNameEn": "Parcel Number",
+          "FieldNameAr": "بالرقم المميز",
+          "FieldPlaceHolderEn": "Enter Parcel Number",
+          "FieldPlaceHolderAr": "ادخل الرقم المميز",
+          "FieldID": "parcelNumber",
+          "FieldTypeID": 1,
+          "FieldTypeName": "Text",
+          "FieldValueTypeID": 3,
+          "FieldValueTypeName": "AlphaNumeric",
+          "FieldDefaultValue": null,
+          "FieldMaxLength": 8,
+          "FieldMinLength": null,
+          "FieldRow": null,
+          "FieldMaxValue": null,
+          "FieldMinValue": null,
+          "IsMandatory": false,
+          "IsActive": true,
+          "IsEnable": null,
+          "DisplayOrder": null,
+          "Validations": [
+            {
+              "ValidationID": 1,
+              "ValidationType": "required",
+              "ValidationErrorMessageEn": "This filed is required",
+              "ValidationErrorMessageAr": "This filed is required",
+              "ValidationPattern": null
+            },
+            {
+              "ValidationID": 2,
+              "ValidationType": "pattern",
+              "ValidationErrorMessageEn": "Accept only characters",
+              "ValidationErrorMessageAr": "Accept only characters",
+              "ValidationPattern": "^[a-zA-Z]+$"
+            }
+          ],
+          "FieldValues": null
+        }
+      ]
+    }
+  ]
+}
