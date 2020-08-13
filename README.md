@@ -1,5 +1,3 @@
-# Mobile Application Developer, Designer and YouTuber
-
 <p align="center">
   <img src="assets/Avatar.png" alt="afzal avatar" title="avatar" height="256" width="256">
   <h1>Afzal</h1>
