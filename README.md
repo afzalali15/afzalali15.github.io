@@ -1,7 +1,7 @@
 # Mobile Application Developer, Designer and YouTuber
 
 <p align="center">
-  <img src="assets/avatar.png" alt="afzal avatar" title="avatar">
+  <img src="assets/Avatar.png" alt="afzal avatar" title="avatar">
   <h1>Afzal</h1>
 </p>
 
