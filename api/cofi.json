@@ -1,3 +1,42 @@
-{
-  "description":"This is test JSON"
-}
+[
+  {
+    "name":"AFFOGATO",
+    "description":"Espresso poured on a vanilla ice cream. Served in a cappuccino cup.",
+    "imageUrl":"https://www.baristainstitute.com/sites/default/files/styles/2x_width_50_wysiwyg/public/images/affogato_0.jpg"
+  },
+  {
+    "name":"AMERICANO",
+    "description":"Espresso with added hot water (100–150 ml). Often served in a cappuccino cup.",
+    "imageUrl":"https://www.baristainstitute.com/sites/default/files/styles/2x_width_50_wysiwyg/public/images/americano.jpg"
+  },
+  {
+    "name":"CAFFÈ LATTE",
+    "description":"A tall, mild 'milk coffee' (about 150-300 ml). An espresso with steamed milk and only a little milk foam poured over it.",
+    "imageUrl":"https://www.baristainstitute.com/sites/default/files/styles/2x_width_50_wysiwyg/public/images/Caffe_Latte.jpg"
+  },
+  {
+    "name":"CAFFÈ MOCHA",
+    "description":"A caffè latte with chocolate and whipped cream, made by pouring about 2 cl of chocolate sauce into the glass, followed by an espresso shot and steamed milk.",
+    "imageUrl":"https://www.baristainstitute.com/sites/default/files/styles/2x_width_50_wysiwyg/public/images/Cafe_Mocha.jpg"
+  },
+  {
+    "name":"CAPPUCCINO",
+    "description":"A coffee drink consisting of espresso and a milk foam mixture (drink size about 160–240 ml). Served in a cappuccino cup.",
+    "imageUrl":"https://www.baristainstitute.com/sites/default/files/styles/2x_width_50_wysiwyg/public/images/cappuccino_0.jpg"
+  },
+  {
+    "name":"ESPRESSO",
+    "description":"A short, strong drink (about 30 ml) served in an espresso cup.",
+    "imageUrl":"https://www.baristainstitute.com/sites/default/files/styles/2x_width_50_wysiwyg/public/images/espresso.jpg"
+  },
+  {
+    "name":"ESPRESSO MACCHIATO",
+    "description":"Espresso with a little milk foam (drink size about 50 ml). Served in an espresso cup.",
+    "imageUrl":"https://www.baristainstitute.com/sites/default/files/styles/2x_width_50_wysiwyg/public/images/macchiato.jpg"
+  },
+  {
+    "name":"FRAPPÉ",
+    "description":"Rich iced coffee made of espresso, milk and ice. Flavoured syrup can be added (about 300 ml). Mixed in a blender and served for example in a latte glass.",
+    "imageUrl":"https://www.baristainstitute.com/sites/default/files/styles/2x_width_50_wysiwyg/public/images/Frappe.jpg"
+  },
+]
